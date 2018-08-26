@@ -1,7 +1,7 @@
 # MLResource
 机器学习入门资源：代码、算法、书籍、论文
-> 本项目正在收集题目中，欢迎PR,还有开 issue 讨论
-* ToDList： 1、书籍推荐思维导图 2、全网机器学习课程整理
+> 本项目正在收集中，欢迎PR,还有开 issue 讨论
+* ToDList： 1、书籍推荐思维导图 
 
 
 # 机器学习入资料整理分享(From 2018.8)
@@ -13,13 +13,13 @@
 
 
 ## 数学方面 :cloud:
-1、PRML [豆瓣]()
+1、PRML [豆瓣](https://book.douban.com/subject/2061116/)
 
-2、MLAPP [豆瓣]()
+2、MLAPP [豆瓣](https://book.douban.com/subject/10758624/)
 
-3、Learning From Data [豆瓣]()
+3、Learning From Data [豆瓣](https://book.douban.com/subject/11026330/)
 
-
+至于李航的《统计学习》和周志华《机器学习》，推荐大家买书好好研读。
 百度云盘：链接：https://pan.baidu.com/s/1EiXZDUx_h5GaZNAx1jdsKQ 密码：q3gx
 
 
@@ -31,7 +31,7 @@
 * 4、PRML 书中的代码实现 ： https://github.com/ctgk/PRML
 
 * Tensorflow 和 kears 工具的书籍
-百度云：
+百度云：链接：https://pan.baidu.com/s/1BMlimNmtY-1rZx1j7lJNCQ 密码：o9px
 
 ## 课程讲义 :pencil2:
 > 网上一些付费机器学习课程的讲义
@@ -50,11 +50,11 @@
 ## 论文集 :floppy_disk:
 > 在看论文前，先训练学术修养
 
-* [如果看全英文的机器学习论文]()
+* **方法论** [如何看懂全英文的机器学习论文](https://www.bilibili.com/video/av18769354?from=search&seid=7337265581162067340)
 
 
-* [机器学习经典论文集在线版](https://github.com/ZzXxL1994/Machine-Learning-Papers）
-* [深度学习论文集]()
+* [机器学习经典论文集在线版](https://github.com/ZzXxL1994/Machine-Learning-Papers)
+* [深度学习论文集](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 
 ## 网上热门免费 MOOC 
@@ -70,8 +70,9 @@
 ## 后记 :memo:
 
 如果上述没有你想要的资源，你可以到下面一下地方找
+* [awesome Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning )
 
-**关于网上各类机器学习课程的比较**
+**关于网上各类机器学习收费课程的比较**
 
 ![](https://github.com/Alex1996a/MLResource/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png)
 
@@ -93,4 +94,5 @@
 
 **关于转载**
 
+随意，最好能加个链接
 
