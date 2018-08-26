@@ -1,11 +1,7 @@
 # MLResource
 机器学习入门资源：代码、算法、书籍、论文
 > 本项目正在收集题目中，欢迎PR,还有开 issue 讨论
-> ToDOList： 1、书籍推荐 2、全网机器学习课程整理
-
-
-1. [数学相关(Math)](./Math.md)
-
+* ToDList： 1、书籍推荐思维导图 2、全网机器学习课程整理
 
 
 # 机器学习入资料整理分享(From 2018.8)
@@ -16,48 +12,31 @@
 </br>
 
 
-## 网络 :cloud:
+## 数学方面 :cloud:
 
 
 整理自《图解 HTTP》
 
-## 操作系统 :computer:
+## 代码库 :computer:
 
 
 
-## 数据结构与算法 :pencil2:
+## 课程讲义 :pencil2:
 
 
 > [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20题解.md)
 
 对题目做了一个分类，并对每种题型的解题思路做了总结。
 
-## 面向对象 :couple:
+## 在线教材 :couple:
 
 
 
 
-## 数据库 :floppy_disk:
+## 论文 :floppy_disk:
 
 
 
-## Java :coffee:
-
-
-
-
-> [JDK 中的设计模式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/JDK%20中的设计模式.md)
-
-对每种设计模式做了一个总结，并给出在 JDK 中的使用实例。
-
-## 分布式 :sweat_drops:
-
-
-
-
-## 工具 :hammer:
-
-## 编码实践 :speak_no_evil:
 
 
 
