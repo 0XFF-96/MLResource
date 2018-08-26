@@ -13,20 +13,22 @@
 
 
 ## 数学方面 :cloud:
+1、PRML [豆瓣]()
+2、MLAPP [豆瓣]()
+3、Learning From Data [豆瓣]()
 
+
+百度云盘：
 
 
 
 ## 代码库 :computer:
-
+1、
 
 
 ## 课程讲义 :pencil2:
 
 
-> [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20题解.md)
-
-对题目做了一个分类，并对每种题型的解题思路做了总结。
 
 ## 在线教材 :couple:
 
@@ -50,8 +52,6 @@
 
 
 您也可以在 Issues 中发表关于改进本仓库的建议。
-
-
 
 
 
