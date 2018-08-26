@@ -15,7 +15,7 @@
 ## 数学方面 :cloud:
 
 
-整理自《图解 HTTP》
+
 
 ## 代码库 :computer:
 
