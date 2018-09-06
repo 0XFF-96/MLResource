@@ -75,7 +75,7 @@
 
 **关于网上各类机器学习收费课程的比较**
 
-![](https://github.com/Alex1996a/MLResource/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png)
+![](https://github.com/Alex1996a/MLResource/blob/master/new%20pic.png)
 
 
 
